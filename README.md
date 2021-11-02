@@ -6,3 +6,4 @@ A [Windows Service](https://docs.microsoft.com/en-us/dotnet/core/extensions/work
 ### How To Stop The Windows Service
 ### How To Delete The Windows Service
 ### Contributing
+This project follows [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) guidelines. Kindly observe them while making your contribution/commits.
