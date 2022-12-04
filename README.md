@@ -1,4 +1,4 @@
-## Automatic Windows Junk Cleaner
+## Windows Musawo
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9768a65e95194263a582bba70010f3d9)](https://app.codacy.com/gh/OSCA-Kampala-Chapter/Windows-Junk-Cleaner?utm_source=github.com&utm_medium=referral&utm_content=OSCA-Kampala-Chapter/Windows-Junk-Cleaner&utm_campaign=Badge_Grade_Settings)
 
