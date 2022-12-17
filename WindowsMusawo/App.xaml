@@ -1,7 +1,7 @@
-﻿<Application x:Class="WindowsJunkCleaner.App"
+﻿<Application x:Class="WindowsMusawo.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:WindowsJunkCleaner"
+             xmlns:local="clr-namespace:WindowsMusawo"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
