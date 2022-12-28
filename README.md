@@ -19,4 +19,4 @@ For issues, please file them [here](https://github.com/OSCA-Kampala-Chapter/Wind
 
 ## License
 
-.NET (including the runtime repo) is licensed under the [MIT](LICENSE.TXT) license.
+Windows Musawo is licensed under the [MIT](LICENSE.TXT) license.
