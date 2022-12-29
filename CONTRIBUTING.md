@@ -60,15 +60,15 @@ The best way to create a minimal reproduction is gradually removing code and dep
 
 ## Contributing Changes
 
-Project maintainers will merge changes that improve the product significantly and broadly align with the [Windows Musawo Roadmap](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/docs/roadmap-v1.0.0.md).
+Project maintainers will merge changes that improve the product significantly and broadly align with the [Windows Musawo Roadmap](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/blob/main/docs/roadmaps/roadmap-v1.0.0.md).
 
-Contributions must also satisfy the other published guidelines defined in this document as well as in [pr-guide docs](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/docs/contributing/pr-guide.md).
+Contributions must also satisfy the other published guidelines defined in this document as well as in [pr-guide docs](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/blob/main/docs/contributing/pr-guide.md).
 
 ### DOs and DON'Ts
 
 Please do:
 
-* **DO** follow our [coding style](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/docs/coding-style.md) (C# code-specific).
+* **DO** follow our [coding style](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/blob/main/docs/contributing/coding-style.md) (C# code-specific).
 * **DO** give priority to the current style of the project or file you're changing even if it diverges from the general guidelines.
 * **DO** include tests when adding new features. When fixing bugs, start with
   adding a test that highlights how the current behavior is broken.
@@ -159,4 +159,4 @@ OSCA Kampala team and community members will provide feedback on your change. Co
 
 One or more OSCA Kampala team members will review every PR prior to merge. They will often reply with "LGTM, modulo comments". That means that the PR will be merged once the feedback is resolved. "LGTM" == "looks good to me".
 
-There are lots of thoughts and [approaches](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/docs/contributing/emoji.md#emoji) for how to efficiently discuss changes. It is best to be clear and explicit with your feedback. Please be patient with people who might not understand the finer details about your approach to feedback.
+There are lots of thoughts and [approaches](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/blob/main/docs/contributing/emoji.md) for how to efficiently discuss changes. It is best to be clear and explicit with your feedback. Please be patient with people who might not understand the finer details about your approach to feedback.
