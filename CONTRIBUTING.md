@@ -60,7 +60,7 @@ The best way to create a minimal reproduction is gradually removing code and dep
 
 ## Contributing Changes
 
-Project maintainers will merge changes that improve the product significantly and broadly align with the [Windows Musawo Roadmap](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/docs/roadmap.md).
+Project maintainers will merge changes that improve the product significantly and broadly align with the [Windows Musawo Roadmap](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/docs/roadmap-v1.0.0.md).
 
 Contributions must also satisfy the other published guidelines defined in this document as well as in [pr-guide docs](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/docs/contributing/pr-guide.md).
 
