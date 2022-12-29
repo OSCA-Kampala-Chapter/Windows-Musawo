@@ -6,7 +6,7 @@ Windows Musawo is a free solution that automatically runs in the background of y
 
 This means that you don't necessarily have to spend time worrying about manually managing your windows device junk-related performance issues or installing resource hungry utilities that hog up all your system memory anymore. Instead, you’ll now focus that precious time on solving other more important problems because Windows Musawo helps you take care of that and it does all this quietly in the background without hogging up all your system resources like other alternatives out there, many of which are not even free on top of hogging your system resources. As professionals, while working with our Windows device, we want to spend our most valuable time working on more critical problems instead. Resultantly, making us more productive.
 
-Below is an outline of the features and improvements that are planned for this release, which is targeted for 30th February 2023.
+Below is an outline of the features and improvements that are planned for this release, which is targeted for 27th February 2023.
 
 ### Areas of Investment
 
