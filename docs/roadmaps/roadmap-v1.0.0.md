@@ -12,11 +12,12 @@ Below is an outline of the features and improvements that are planned for this r
 
 Our core development team will be focussing on the following areas for the next releases.
 
-**Automatic Disk Cleanup:** The Optimization tool intends to work silently in the background of the user's device to routinely clean junk files that can slow down a user's device and internet browsers while doing all this without user's manual intervention. 
-
-**Performance:** While achieving full autonomy of the optimization tool is our goal. We don't want to sacrifice performace and thereby prioritize performance and avoid hogging up alot of system resources. 
-
 **User Experience**: The user is our main focus and is the center of our motivation. A custom user experience with Windows Musawo is one of the main things. We are incorporating various avenues to enable the user customize the level of autonomy they might prefer the optimization tool to take on among others.
 
+**Automatic Disk Cleanup**: The Optimization tool intends to work silently in the background of the user's device to routinely clean junk files that can slow down a user's device and internet browsers while doing all this without user's manual intervention.
+
+**Performance**: While achieving full autonomy of the optimization tool is our goal. We don't want to sacrifice performace and thereby prioritize performance and avoid hogging up alot of system resources.
+
 ## In conclusion
+
 We hope you are as excited about these features as we are! Of course, it is still early in the release and these plans are subject to change, but you can follow along with the latest status of these features by [tracking the action on GitHub](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo). Major updates and changes will be shared in an article when necessary. You can also get live updates and participate in the conversation by joining and sharing your thoughts or request to join our Whatsapp group from [our Discussions section](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/discussions).

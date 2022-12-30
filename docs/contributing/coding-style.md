@@ -38,7 +38,7 @@ An [EditorConfig](https://editorconfig.org "EditorConfig homepage") file (`.edit
 
 We also use the [.NET Codeformatter Tool](https://github.com/dotnet/format) to ensure the code base maintains a consistent style over time, the tool automatically fixes the code base to conform to the guidelines outlined above.
 
-### Example File:
+### Example File
 
 ``ObservableLinkedList`1.cs:``
 

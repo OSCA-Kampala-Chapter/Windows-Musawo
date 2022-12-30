@@ -1,5 +1,7 @@
 ## Windows Musawo
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b16627b670714ab095df3fd75416f03f)](https://www.codacy.com/gh/OSCA-Kampala-Chapter/Windows-Musawo/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OSCA-Kampala-Chapter/Windows-Musawo&amp;utm_campaign=Badge_Grade)
+
 ### Overview
 
 A free solution that automatically runs in the background of your Windows Operating System Device to routinely clean up Junk files, save storage/space and improve performance, without you having to do it manually every time. Junk files are temporary files that were created so that your computer/device could perform a task, such as opening a document, viewing an image, or browsing the internet. These files are useful at the moment, but once they’ve served their purpose, they’re just junk, system junk files that clog up a device and cause poor performance.
