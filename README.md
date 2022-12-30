@@ -14,6 +14,7 @@ We welcome contributions! Many people all over the community have helped make th
 
 * [Contributing](CONTRIBUTING.md) explains what kinds of contributions we welcome
 * [Workflow Instructions](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/tree/main/docs/workflow/README.md) explains how to build and test
+* [Windows Musawo v1.0.0 Roadmap](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/blob/main/docs/roadmaps/roadmap-v1.0.0.md) explains the product direction for our next releases.
 
 ## Filing issues
 
