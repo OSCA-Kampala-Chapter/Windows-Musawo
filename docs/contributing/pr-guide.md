@@ -1,6 +1,7 @@
 # Pull Request Guide
 
 ## Contributing Rules
+
 All contributions to OSCA-Kampala-Chapter/Windows-Musawo repo are made via pull requests (PRs) rather than through direct commits. The pull requests are reviewed and merged by the repository maintainers after a review and approval from at least one area maintainer.
 
 To merge pull requests, you must have write permissions in the repository.
@@ -8,7 +9,7 @@ To merge pull requests, you must have write permissions in the repository.
 ## Quick Code Review Rules
 
 * Do not mix unrelated changes in one pull request. For example, a code style change should never be mixed with a bug fix.
-* All changes should follow the existing code style. You can read more about different [code styles](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/docs/coding-style.md).
+* All changes should follow the existing code style. You can read more about different [code styles](https://github.com/OSCA-Kampala-Chapter/Windows-Musawo/blob/main/docs/contributing/coding-style.md).
 * Use Draft pull requests for changes you are still working on but want early CI loop feedback. When you think your changes are ready for review, [change the status](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/changing-the-stage-of-a-pull-request) of your pull request.
 * Avoid rebasing your changes. If you are asked to make changes during the review process do them as a new commit.
 * To resolve merge conflicts, use "merge" instead of "rebase".
@@ -24,7 +25,7 @@ If during the code review process a merge conflict occurs the area owner is resp
 Anyone with write access can merge a pull request manually or by setting the [auto-merge](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/automatically-merging-a-pull-request) label when it satisfies all of the following conditions:
 
 * The PR has been approved by at least one reviewer and any other objections are addressed.
-    * You can request another review from the original reviewer.
+  * You can request another review from the original reviewer.
 * The PR successfully builds and passes all tests in the Continuous Integration (CI) system.
 
 Typically, PRs are merged as one commit. It creates a simpler history than a Merge Commit. "Special circumstances" are rare, and typically mean that there are a series of cleanly separated changes that will be too hard to understand if squashed together, or for some reason we want to preserve the ability to bisect them.
